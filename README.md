@@ -1,11 +1,6 @@
 # SQL--Customers-and-Orders-World-Database-Queries
 
-
-![image](https://github.com/insights000/SQL--Customers-and-Orders-World-Database-Queries/assets/150028138/56d35651-0d86-4be3-9b59-66e67a7ea69f)
-
-
-
-
+![my SQL](https://github.com/insights000/SQL--Customers-and-Orders-World-Database-Queries/assets/150028138/5a7b4490-07a2-4ed5-94f7-4ebdeae8937b)
 
 
 
