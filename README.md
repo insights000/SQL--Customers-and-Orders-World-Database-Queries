@@ -89,6 +89,5 @@ This task reflects my SQL skills to write simple queries to retrieve information
 
 
 
-![EER Relationship Diagram](https://github.com/insights000/SQL--Customers-and-Orders-World-Database-Queries/assets/150028138/80c6865a-5969-4281-91f3-645eeebb599b)
 
 
