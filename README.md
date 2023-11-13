@@ -1,8 +1,6 @@
 # SQL--Customers-and-Orders-World-Database-Queries
 
 
-![image](https://github.com/insights000/SQL--Customers-and-Orders-World-Database-Queries/assets/150028138/56d35651-0d86-4be3-9b59-66e67a7ea69f)
-
 
 **Grade Received Distinction**
 
