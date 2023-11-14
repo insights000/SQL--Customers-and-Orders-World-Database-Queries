@@ -24,10 +24,7 @@ This task reflects my SQL skills to write simple queries to retrieve information
 **SQL QUERIES**
 **Task 1** 
 
-
-
-
-
+![sql task 1 then](https://github.com/insights000/SQL--Customers-and-Orders-World-Database-Queries/assets/150028138/025a0aba-d76c-4ef6-9379-7f852d0dd12a)
 
 
 
@@ -37,15 +34,7 @@ This task reflects my SQL skills to write simple queries to retrieve information
 **Task 2**
 
 
-
-
-
-
-
-
-
-
-
+![SQL task part 2](https://github.com/insights000/SQL--Customers-and-Orders-World-Database-Queries/assets/150028138/9e0501af-cc02-4996-adde-8f248413c9c1)
 
 
 
@@ -57,6 +46,18 @@ This task reflects my SQL skills to write simple queries to retrieve information
 
 
 **RELATIONAL DATABASE MANAGEMENT SYSTEMS - ENTITY RELATIONSHIP DIAGRAMS**
+
+![EER Relationship Diagram](https://github.com/insights000/SQL--Customers-and-Orders-World-Database-Queries/assets/150028138/80e5428d-9a24-4245-9d0d-3328ffdc4b9b)
+
+
+
+https://1drv.ms/i/s!Ats0QFj8Jh_flhNPf3w4UWd9R-Im?e=08c9Zl
+
+
+
+
+
+
 
 
 
